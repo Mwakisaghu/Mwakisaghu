@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mwakisaghu_Harry
+- 👋 Hi, I’m @Mwakisaghu_Harrison
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning js
+- 🌱 I’m proficient in JavaScript, React.js, Node.js, Python
 - 💞️ I’m looking to collaborate on various s/w develpoment projects
 - 📫 How to reach me -harrisonchambela2016@gmail.com
 
