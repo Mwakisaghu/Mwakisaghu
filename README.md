@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Mwakisaghu_Harrison
-- 👀 I’m interested in software development
-- 🌱 I’m proficient in JavaScript, React.js, Node.js, Python
-- 💞️ I’m looking to collaborate on various s/w develpoment projects
-- 📫 How to reach me -harrisonchambela2016@gmail.com
+👋 Hi, I'm Harrison (@Mwakisaghu)
 
-<!---
-Mwakisaghu/Mwakisaghu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 ERP Consultant | Microsoft Dynamics 365 Business Central & NAV | Data Engineer
+
+🛠️ Experienced in AL, JavaScript, React.js, Node.js, Python, SQL, REST APIs, and ERP data migration.
+
+🌱 Passionate about financial systems, automation, data analytics, and software development.
+
+🤝 Open to collaborating on ERP, fintech, data, and software projects.
+
+📫 Email: harrisonchambela2016@gmail.com
